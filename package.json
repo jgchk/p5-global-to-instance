@@ -1,0 +1,9 @@
+{
+  "name": "p5-global-to-instance",
+  "version": "1.0.0",
+  "main": "index.js",
+  "license": "MIT",
+  "dependencies": {
+    "@babel/core": "^7.15.5"
+  }
+}
